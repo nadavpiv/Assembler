@@ -1,7 +1,7 @@
 # Assembler
 Building an assembler in C language
 
-Assembler Writing Project
+# Assembler Writing Project
 We received an imaginary processor and an imaginary assembly language. Our task was to take a file containing assembly commands and create machine language files that the computer understands.
 Each instruction in the system had to be encoded into 32 bits (4 bytes) using the little-endian method (bits 0-7 in the byte at the lowest address). Every instruction in the language had an opcode identifying the instruction, and some instructions also had a secondary identifier called funct.
 In the assembly language, there were two types of statements: directives and instructions.
